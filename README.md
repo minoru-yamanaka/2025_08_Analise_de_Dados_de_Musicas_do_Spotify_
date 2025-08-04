@@ -33,3 +33,8 @@ Esta seção explora as características das variáveis numéricas e suas relaç
 Análise de tendências ao longo dos anos. Serão gerados gráficos para mostrar:
 - O número de músicas lançadas por ano.
 - A tendência da popularidade média das músicas ao longo dos anos.
+
+--- 
+### [DashBoard | Power BI em PDF ](/spotify_songs_dashboard.pbix)
+
+### ![DashBoard | Power BI em PDF ](/spotify_songs_dashboard.jpg)
