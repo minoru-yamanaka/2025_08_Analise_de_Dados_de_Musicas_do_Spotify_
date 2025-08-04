@@ -35,6 +35,6 @@ Análise de tendências ao longo dos anos. Serão gerados gráficos para mostrar
 - A tendência da popularidade média das músicas ao longo dos anos.
 
 --- 
-### [DashBoard | Power BI em PDF ](/spotify_songs_dashboard.pbix)
+### [DashBoard | Power BI ](/spotify_songs_dashboard.pbix)
 
 ### ![DashBoard | Power BI em PDF ](/spotify_songs_dashboard.jpg)
